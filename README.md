@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Balakumaran.
-- 👀 I’m interested in Dapp development especially in ethereum and its sidechains.
+- 👀 I’m interested in Dapp development especially in ethereum and its scaling solutions.
 - 🌱 I’m currently learning ethereum and polygon.
 - 💞️ I’m looking for an internship and to collaborate on open source projects.
 - 📫 How to reach me balakumaran.muthusamy1@gmail.com.
