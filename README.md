@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Balakumaran.
-- 👀 I’m interested in Dapp development especially in ethereum and its scaling solutions.
-- 🌱 I’m currently learning ethereum and polygon.
-- 💞️ I’m looking for an internship and to collaborate on open source projects.
-- 📫 How to reach me balakumaran.muthusamy1@gmail.com.
+- 👀 I’m looking a Software Developer job.
+- 🌱 I’m a Fresher and having 1 month of internship experience in web development.
+- 💞️ My keyskills are python,SQL,java,javascript,React.js,HTML,CSS,Redux,etc..
+- 📫 Reach me through: balakumaran.muthusamy1@gmail.com.
 
 <!---
 balakumarandev/balakumarandev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
