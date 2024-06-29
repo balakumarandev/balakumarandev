@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Balakumaran.
-- 👀 I’m looking a Software Developer job.
+- 👀 I’m looking a Software Developer job - immediate joiner.
 - 🌱 I’m a Fresher and having 1 month of internship experience in web development.
 - 💞️ My keyskills are python,SQL,java,javascript,React.js,HTML,CSS,Redux,etc..
 - 📫 Reach me through: balakumaran.muthusamy1@gmail.com.
