@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Balakumaran.
-- 👀 I’m looking a Software Developer job - immediate joiner.
-- 🌱 I’m a Fresher and having internship experience in web development.
-- 💞️ My keyskills are Java,HTML5 & CSS, React.
+- 👀 I’m looking a Software Engineer job - immediate joiner.
 - 📫 Reach me through: balakumaran.muthusamy1@gmail.com.
 
 <!---
