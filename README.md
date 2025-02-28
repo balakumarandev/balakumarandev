@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Balakumaran.
-- 👀 I’m looking a Software Engineer job - immediate joiner.
+- 👀 I’m actively searching for Software Engineer job - immediate joiner.
 - 📫 Reach me through: balakumaran.muthusamy1@gmail.com.
 
 <!---
